@@ -1,3 +1,6 @@
+[![blackxfiied](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fblackxfiied&subtitle=blackxfiied&size=square)](https://github.com/blackxfiied)
+[![blackxfiied](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siDiscord&subtitle=blackxfiied&size=wide&rounded=24)]()
+
 <div align="left">
 
 ### blackxfiied ✦
